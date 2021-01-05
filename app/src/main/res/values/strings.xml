@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HashNotes</string>
+    <string name="title">Title</string>
+    <string name="encrypted_note">Encrypted Note</string>
+    <string name="start_making_notes">Start Making notes</string>
+    <string name="encryption_key">Encryption Key</string>
+</resources>
